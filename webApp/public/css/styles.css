@@ -1,0 +1,53 @@
+html { 
+  /*background: url(background/background1.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;*/
+}
+
+/*body {
+  font-family: Verdana;
+  font-size: 13px;
+  color: #6d6d6d;
+  background-color: #777;
+}*/
+
+h1 {
+  color: #000000;
+  text-align: center;
+
+}
+
+h2 {
+  color: #000000;
+}
+
+h4 {
+  color: #EB6864;
+  margin: 0 20px;
+}
+/* 
+.img {
+  height: 200px; 
+  width: 280px; 
+  display: block;
+  margin: 0 auto;
+} */
+
+.card {
+  max-width: 70%;
+  text-align: left;
+  margin: auto;
+}
+
+.video {
+  display: block;
+  margin: 0 auto;
+  height: 100%; 
+  width: 100%; 
+}
+
+.active {
+  background-color: #EB6864;
+}
